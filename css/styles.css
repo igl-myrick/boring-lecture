@@ -1,0 +1,22 @@
+body {
+  background-color: #d9ecfd;
+  line-height: 24px;
+  font-family: georgia;
+}
+
+.header {
+  text-align: center;
+}
+
+h2.intro {
+  font-weight: bold;
+  color: #8b0000;
+}
+
+p.intro {
+  color: #8b0000;
+}
+
+img.intro {
+  color: #8b0000
+}
