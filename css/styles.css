@@ -8,15 +8,7 @@ body {
   text-align: center;
 }
 
-h2.intro {
-  font-weight: bold;
+.intro {
   color: #8b0000;
-}
-
-p.intro {
-  color: #8b0000;
-}
-
-img.intro {
-  color: #8b0000
+  text-align: center;
 }
