@@ -9,6 +9,16 @@ body {
 }
 
 .intro {
-  color: #8b0000;
+  color: salmon;
   text-align: center;
+}
+
+.button {
+  width: 120px;
+  height: 30px;
+}
+
+hr {
+  width: 12.8%;
+  margin-right: 87.2%;
 }
